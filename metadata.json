@@ -1,0 +1,6 @@
+{
+  "name": "FireFusion GSS — Harmonized Satellite Fire Intelligence & Responder Hub",
+  "description": "Harmonizes NASA MODIS & VIIRS satellite fire observations with real-time emergency responder coordination, situational awareness, and fire event tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
