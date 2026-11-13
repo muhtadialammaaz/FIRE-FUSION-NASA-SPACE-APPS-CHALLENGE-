@@ -1,0 +1,118 @@
+# AI Usage and Declaration
+
+## FIRE FUSION
+### GLOBAL SYNTHETIC SQUAD (G.S.S.)
+
+This document transparently describes how Artificial Intelligence (AI) tools were used during the development, visualization, documentation, and presentation of the FIRE FUSION project.
+
+## 1. Our Commitment to Transparency
+
+GLOBAL SYNTHETIC SQUAD (G.S.S.) believes in responsible, ethical, and transparent use of Artificial Intelligence.
+
+FIRE FUSION is a team-driven project. The core project idea, conceptualization, system vision, workflow design, and overall project direction were developed by our team.
+
+AI tools were used as supporting technologies to help transform our original ideas into understandable explanations, visual demonstrations, presentations, documentation, and implementation assistance.
+
+AI was not the source of our original project concept.
+
+## 2. AI Tools Used
+
+The following AI-powered tools were used during different stages of the project:
+
+| AI Tool | Purpose of Use |
+|----------|---------------|
+| ChatGPT | Project explanation, research assistance, presentation content, video prompts, narration scripts, documentation, README preparation, code assistance, debugging support, and image generation assistance. |
+| Google Flow | AI-assisted video generation and scene visualization for project presentations and demonstrations. |
+| Google Gemini | Research assistance, project planning, writing, and content development. |
+| Google AI Studio | AI-assisted experimentation and development support. |
+| Canva | Presentation design, graphics, visual assets, and AI-assisted image generation. |
+| ElevenLabs | AI-assisted voice generation and narration for project videos. |
+| CapCut | Video editing, clip assembly, narration integration, and final video production. |
+
+Additional AI-assisted creative and development tools may have been used where appropriate.
+
+## 3. AI-Assisted Development and Content Creation
+
+AI tools assisted our team in several areas:
+
+- Explaining technical concepts in accessible language.
+- Organizing project presentation content.
+- Preparing presentation slides and supporting visual materials.
+- Generating cinematic video prompts and scene descriptions.
+- Creating AI-assisted visual demonstrations of satellite and ground monitoring concepts.
+- Preparing voiceover scripts and narration.
+- Improving project documentation and GitHub README content.
+- Assisting with coding, debugging, and technical problem-solving.
+- Supporting research and understanding of relevant technologies.
+
+AI-generated visuals, narration, and video scenes are used as presentation and explanatory materials. They should not be interpreted as direct evidence of actual satellite operations, real-world wildfire detection, or measured prototype performance.
+
+## 4. Original Human Contribution
+
+The core intellectual and conceptual work behind FIRE FUSION belongs to GLOBAL SYNTHETIC SQUAD (G.S.S.).
+
+Our team independently developed the project's original idea and overall vision, including:
+
+- The original FIRE FUSION concept and problem-solving approach.
+- The idea of combining satellite-based observations with ground-based monitoring.
+- The conceptual workflow connecting the land demonstration prototype with satellite observation and data processing.
+- The project architecture and system-level design decisions.
+- The conceptual approach to satellite data filtering and normalization.
+- The overall monitoring, analysis, and data-fusion workflow.
+- The land demonstration concept and its role in explaining the monitoring system.
+- Team decisions, project direction, experimentation, prototype work, and testing activities.
+
+AI assistance was used to help communicate, visualize, document, and support the development of these team-created ideas.
+
+## 5. Human Oversight and Verification
+
+The team reviewed AI-assisted outputs and verified information before incorporating it into project materials.
+
+We recognize that AI systems can generate inaccurate information, incorrect code, misleading visualizations, or unsupported technical claims.
+
+Therefore:
+
+- AI-generated information was reviewed by team members.
+- Technical decisions remained under human responsibility.
+- Project concepts and implementation decisions were determined by the team.
+- AI-generated visuals were treated as illustrative representations.
+- Claims about project functionality and performance were not intended to be established solely through AI-generated content.
+
+## 6. Responsible AI Usage
+
+We are committed to:
+
+- Transparent disclosure of AI assistance.
+- Maintaining human ownership of project ideas and decisions.
+- Avoiding misleading representations of AI-generated demonstrations.
+- Reviewing AI-assisted technical information.
+- Respecting applicable licenses, platform policies, and intellectual property rights.
+- Using AI as a supporting tool rather than a substitute for independent thinking, creativity, and engineering judgment.
+
+## 7. Project-Specific AI Disclosure
+
+FIRE FUSION combines a team-developed environmental monitoring concept with AI-assisted communication and visualization.
+
+AI tools helped us bring our ideas to life through presentations, visual storytelling, generated video scenes, narration, documentation, and development support.
+
+The original project concept, system vision, land-to-satellite monitoring approach, and conceptual data-processing workflow were developed by GLOBAL SYNTHETIC SQUAD (G.S.S.).
+
+Any AI-generated satellite imagery, forest scenes, prototype illustrations, dashboards, or animations presented in project videos are illustrative unless explicitly identified as actual project data or implementation outputs.
+
+## 8. Declaration
+
+We, GLOBAL SYNTHETIC SQUAD (G.S.S.), declare that Artificial Intelligence tools were used transparently as supporting technologies during the development and presentation of FIRE FUSION.
+
+We acknowledge the contributions of AI tools to content preparation, visualization, documentation, creative production, and development assistance.
+
+We affirm that the project's original concept, overall vision, core problem-solving approach, and principal design decisions were developed by our team.
+
+We accept responsibility for the project content, technical decisions, implementation, and representations made in our submission.
+
+---
+
+**Project:** FIRE FUSION  
+**Team:** GLOBAL SYNTHETIC SQUAD (G.S.S.)  
+**AI Disclosure:** AI-assisted development, visualization, documentation, and presentation  
+**Human Contribution:** Original project conceptualization, system vision, design decisions, prototype work, and project direction
+
